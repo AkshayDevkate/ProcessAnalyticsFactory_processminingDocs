@@ -15,3 +15,14 @@ It comes under two licences
 |10 Out-of-the-box analysis dashboards, to analyze all your processes with one click and one view | Exclusive access to out-of-the-box Purchase-to-Pay and Order-to-Cash Content Packs.|
 | Find all the root causes of abnormalities automatically | SAP®-certified connector allowing for pseudonymization of data and many more.|
 |Receive notifications or automatically start workflows in applications when data in Process Mining dashboards exceeds a specified limit| More than 200 built in action connectors to turn data-to-insight-to-actions, directly.|
+
+
+# Premium Editions
+
+Take your Premium License to another level with PAFnow Premium Editions. Find the Edition that exactly matches your needs and make your analysis even easier! Combine your expertise with insights from specialized dashboards to boost your business.
+
+PAFNow RPA edition [learn more](https://pafnow.com/product/pafnow-rpa/)
+
+PAFNow BPM edition [learn more](https://pafnow.com/product/pafnow-bpm/)
+
+PAFNow Opex edition [learn more](https://pafnow.com/product/pafnow-opex/)
