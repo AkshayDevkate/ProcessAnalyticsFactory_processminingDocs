@@ -38,5 +38,11 @@ The PAFnow training optimally prepares you to independently analyze your busines
 
 [Module 3](https://pafnow.com/training/) for report designer training.
 
-[Module 4](https://pafnow.com/training/)
+[Module 4](https://pafnow.com/training/) for data engineer training.
+
+# News
+
+Stay up to date with PAFnow, Process Mining, and the latest trends and developments in process optimization with Power BI.
+
+[click here](https://pafnow.com/news/) to learn more.
   
