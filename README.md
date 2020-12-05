@@ -45,4 +45,15 @@ The PAFnow training optimally prepares you to independently analyze your busines
 Stay up to date with PAFnow, Process Mining, and the latest trends and developments in process optimization with Power BI.
 
 [click here](https://pafnow.com/news/) to learn more.
+
+# Events and webinars 
+
+Find out everything about upcoming and past events, join in on the action, meet our team and become part of the Power Platform community.
+
+[click here](https://pafnow.com/events/) to learn more.
+
+
+# Contact 
+
+[Click here](https://pafnow.com/contact/) to learn more.
   
