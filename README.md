@@ -26,3 +26,17 @@ PAFNow RPA edition [learn more](https://pafnow.com/product/pafnow-rpa/)
 PAFNow BPM edition [learn more](https://pafnow.com/product/pafnow-bpm/)
 
 PAFNow Opex edition [learn more](https://pafnow.com/product/pafnow-opex/)
+
+
+# Training cources 
+
+The PAFnow training optimally prepares you to independently analyze your business processes with PAFnow, to create your own evaluations and to sustainably improve your processes. After successful completion of the training all participants receive the certificate “Certified PAFnow User“.
+
+[Module 1](https://pafnow.com/training/) for viewer training.
+
+[Module 2](https://pafnow.com/training/) for editor training.
+
+[Module 3](https://pafnow.com/training/) for report designer training.
+
+[Module 4](https://pafnow.com/training/)
+  
